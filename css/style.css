@@ -1,0 +1,19 @@
+body{
+	background: url('../images/bg.png') repeat;
+}
+
+img{
+	width: 100%;
+}
+
+h1{
+	font-size: 15;
+	text-align: center;
+}
+
+.movie{
+	display: inline-block;
+	width: 200px;
+	height: 400px;
+	margin: 0 20 0 20;
+}
